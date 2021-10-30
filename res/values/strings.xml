@@ -30,21 +30,6 @@
     <string name="smart_charging_summary">Helps in cooling down &amp; also protects from over charging the device</string>
     <string name="reset_stats_title">Reset battery stats</string>
     <string name="reset_stats_summary">Battery stats will get reset when charging limit is reached</string>
-    <!-- DC dimming -->
-    <string name="dc_mode_summary">Reduces screen flicker while brightness is low</string>
-    <string name="dc_mode_title">DC-Dimming</string>
-    <string name="tile_dc_mode">DC-Dimming</string>
-   <!-- DT2W -->
-    <string name="dt2w_title">Double-Tap to wake</string>
-    <string name="dt2w_summary">When Double-tap to wake is enabled, you can touch the screen twice to turn it on</string>
-    <!-- HBM mode -->
-    <string name="hbm_mode_summary">Peak brightness for better visibility in outdoors</string>
-    <string name="hbm_mode_title">High brightness mode</string>
-    <string name="tile_hbm_mode">High brightness mode</string>
-    <!-- srgb mode -->
-    <string name="srgb_mode_summary">sRGB mode for simpler colour display</string>
-    <string name="srgb_mode_title">sRGB mode</string>
-    <string name="tile_srgb_mode">sRGB</string>
     <!-- otg mode -->
     <string name="otg_mode_summary">Enable USB-OTG power supply for external headphones and flash drives</string>
     <string name="otg_mode_title">Enable USB-OTG</string>
@@ -64,9 +49,6 @@
     <string name="refresh_rate_90_summary">Maximum smoothness with higher refresh rate but Apps&#47;Games can still limit to 60 FPS</string>
     <string name="refresh_rate_90Forced_title">Smooth Display</string>
     <string name="refresh_rate_90Forced_summary">Force display to 90Hz which improves touch responsiveness &amp; animation quality. Increases battery usage. </string>
-    <!-- fps info -->
-    <string name="fps_info_title">FPS overlay</string>
-    <string name="fps_info_summary">Show overlay with current frames per second</string>
 
     <!-- Unsupported -->
     <string name="unsupported">Unsupported</string>
